@@ -1,0 +1,19 @@
+*.db
+assets/external/
+__pycache__/
+.states
+*.py[cod]
+.web
+.venv/
+# Virtual environments (other names)
+env/
+venv/
+
+# Environment variables
+.env
+.env.*
+
+# OS/Editor
+.DS_Store
+Thumbs.db
+.vscode/
