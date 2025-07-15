@@ -1,1 +1,1 @@
-python -m reflex run --env prod --backend-port 8000 --backend-host 0.0.0.0
+antenv/bin/reflex run --env prod --backend-port 8000 --backend-host 0.0.0.0
